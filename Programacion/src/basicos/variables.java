@@ -20,7 +20,7 @@ public class variables {
 		//cadenas de caracteres
 		String cadena = "Hola clase";
 		
-		//Declaración
+		//Declaraciï¿½n
 		//Inicializacion
 		//Asignacion de valor
 		//Casting
@@ -45,3 +45,4 @@ public class variables {
 	}
 
 }
+
