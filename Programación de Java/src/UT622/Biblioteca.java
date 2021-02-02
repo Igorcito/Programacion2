@@ -78,6 +78,7 @@ public class Biblioteca {
 								System.out.println(biblioteca.get(i));
 								System.out.println(" ");
 								System.out.println(" ");
+								System.out.println(" ");
 								
 								/*System.out.println("He encontrado el libro que buscas:");
 								System.out.println("Su posición es: " + (i+1));
