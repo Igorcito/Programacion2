@@ -172,8 +172,7 @@ public class Actividad_25 {
 					 		 System.out.println(" ");
 					 		 
 					 		 break;
-					 		 
-					 		 
+					 		  
 				}
 			
 			}while(opcion != 0);

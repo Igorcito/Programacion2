@@ -28,7 +28,6 @@ public class Playlist {
 	{
 		this.nombre = nombre;
 		this.playlist = new ArrayList<Cancion>();
-		
 	}
 	
 	//---MÉTODOS:---
@@ -107,7 +106,7 @@ public class Playlist {
 		boolean borrar = true;
 			if(playlist.size() > 0)
 			{
-				if(playlist.size() >= posicion )
+				if(playlist.size() >= posicion)
 				{
 					borrar = true;
 					playlist.remove(posicion);
